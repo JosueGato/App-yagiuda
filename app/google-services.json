@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970134038800",
+    "project_id": "appmb-b0cbb",
+    "storage_bucket": "appmb-b0cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970134038800:android:c3673b3d75b11869089d95",
+        "android_client_info": {
+          "package_name": "com.example.app_mb2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI9N9k9LG8p9zu-mbRtJkwEE_bEPSlYrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
